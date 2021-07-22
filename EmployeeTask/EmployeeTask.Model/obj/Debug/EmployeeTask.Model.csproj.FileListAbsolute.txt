@@ -1,0 +1,7 @@
+C:\Users\Shijo\Desktop\cSharpProjects-main\SampleEmployeeTask\EmployeeTask\EmployeeTask.Model\bin\Debug\EmployeeTask.Model.dll
+C:\Users\Shijo\Desktop\cSharpProjects-main\SampleEmployeeTask\EmployeeTask\EmployeeTask.Model\bin\Debug\EmployeeTask.Model.pdb
+C:\Users\Shijo\Desktop\cSharpProjects-main\SampleEmployeeTask\EmployeeTask\EmployeeTask.Model\obj\Debug\EmployeeTask.Model.csproj.CoreCompileInputs.cache
+C:\Users\Shijo\Desktop\cSharpProjects-main\SampleEmployeeTask\EmployeeTask\EmployeeTask.Model\obj\Debug\EmployeeTask.Model.dll
+C:\Users\Shijo\Desktop\cSharpProjects-main\SampleEmployeeTask\EmployeeTask\EmployeeTask.Model\obj\Debug\EmployeeTask.Model.pdb
+C:\Users\Shijo\Desktop\cSharpProjects-main\SampleEmployeeTask\EmployeeTask\EmployeeTask.Model\bin\Debug\EmployeeTask.Model.dll.config
+C:\Users\Shijo\Desktop\cSharpProjects-main\SampleEmployeeTask\EmployeeTask\EmployeeTask.Model\obj\Debug\EmployeeTask.Model.csprojAssemblyReference.cache
